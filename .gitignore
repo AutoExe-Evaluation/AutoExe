@@ -1,0 +1,10 @@
+.DS_Store
+*.class
+*.o
+*.a
+__pycache__/
+.mypy_cache/
+cmake-build-*/
+build/
+.idea/
+AutoTrace

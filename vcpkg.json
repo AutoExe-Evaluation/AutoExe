@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "curl",
+    "nlohmann-json",
+    "z3",
+    "argparse"
+  ]
+}
